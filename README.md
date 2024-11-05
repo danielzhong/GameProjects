@@ -23,7 +23,7 @@ Preview Image
 ![Image Description](./image/1.jpg)
 ![Image Description](./image/2.jpg)
 
-## ArtfulEscapeEndlessEvasion!
+## Artful Escape Endless Evasion
 [REPO](https://github.com/DanielZhong/ArtfulEscapeEndlessEvasion)
 ![demo](https://github.com/user-attachments/assets/7c2f84b2-eae4-4966-a465-5abcb38f6bbe)
 
