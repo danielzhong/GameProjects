@@ -7,6 +7,13 @@ Preview Image
 ![Image Description](./image/4.png)
 ![Image Description](./image/3.png)
 
+The-Arcanist (Mixed Reality Game):
+[REPO](https://github.com/DanielZhong/The-Arcanist/tree/main)
+
+
+Uploading trailer.mp4…
+
+
 ## Ragdoll Rampage (Unity + UE5.4)
 [REPO Unity](https://github.com/DanielZhong/Ragdoll-Rampage)
 [REPO UE5](https://github.com/DanielZhong/RagdollRampage_UE)
