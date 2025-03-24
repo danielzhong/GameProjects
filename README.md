@@ -43,7 +43,4 @@ Preview Image
 Preview Image
 ![7](https://github.com/user-attachments/assets/7327ad63-b0cc-4581-9069-a0b6742a41b6)
 
-https://github.com/user-attachments/assets/f15aeca4-996f-49f8-b6ce-8a0808ac5c27
-
-
 [Video Link](https://drive.google.com/file/d/18pYgjR5zvDSDaf4xoS4HKCtZ-tsEzIBp/view?usp=sharing)
